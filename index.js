@@ -1,4 +1,4 @@
-var giphyAPIKey = "";
+var giphyAPIKey = "yogh6mIixsmiqURza2Xoft5c3ozBqCM5";
 
 function sendapirequest(){
   var input = document.getElementById("input").value;
